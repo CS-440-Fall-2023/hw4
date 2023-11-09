@@ -45,7 +45,7 @@ Each problem specifies the names of the files to be submitted for it. Please mak
 
 This is a __team submission__, i.e. a single submission per team. Your team has a single repository to which each of you will have access. Your team submission will be assigned a __Submission Score__ based on the correctness of the contained solutions.
 
-Deadline: 2359h on Sun, 12 Nov
+Deadline: 2359h on Fri, 17 Nov
 
 ## 4.2 Feedback
 
@@ -53,7 +53,7 @@ You will provide feedback on your team and on the assignment by filling the feed
 
 This is an __individual submission__, i.e. each of you has to fill the form. Doing so contributes to your __Team Factor__ which is 1 by default and is penalized in case of non-submission of the form, dishonest feedback, or unequal contribution to the submission as reported by your buddies and/or the commit history on GitHub.
 
-Deadline: 2359h on Sun, 12 Nov
+Deadline: 2359h on Fri, 17 Nov
 
 ## 4.3 Peer Review
 
@@ -61,7 +61,7 @@ Two submissions will be shared with you for review which you will evaluate accor
 
 This is an __individual submission__ on LMS and contributes to your individual __Review Factor__ which is 1 by default and penalized for non-submission.
 
-Deadline: 2359h on Tue, 14 Nov
+Deadline: 2359h on Tue, 21 Nov
 
 # Grading
 
